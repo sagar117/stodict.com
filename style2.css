@@ -750,10 +750,10 @@ code {
   color: #fff; }
 
 .site-content {
-  padding-top: 120px; }
+  padding-top: 12px; }
   @media only screen and (min-width: 993px) {
     .site-content {
-      padding-top: 146px; } }
+      padding-top: 14px; } }
 
 input[type="text"],
 input[type="email"],
