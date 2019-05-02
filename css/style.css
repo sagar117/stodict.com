@@ -55,13 +55,32 @@ border-width:1px;
 float:left;
 width:300px;
 height:329px;}
+
+.t1{
+text-align: center;
+padding-top:51px;
+float:left;
+width:300px;
+height:329px;}
+
 .img:hover{
 
     opacity: 0.4;
 }
 #cnt{
 width:1000px;
- padding-top: 9%;
+ padding-top: 2%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin:auto;
+    padding-bottom:2%;
+
+}
+.cnt2{
+width:1000px;
+ padding-top: 2%;
     top: 0;
     bottom: 0;
     left: 0;
